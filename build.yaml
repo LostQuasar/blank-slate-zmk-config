@@ -1,3 +1,4 @@
 ---
 include:
   - board: lpgalaxy_blank_slate
+    cmake-args: -DCONFIG_ZMK_BLE=n
